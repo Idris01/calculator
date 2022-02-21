@@ -12,7 +12,7 @@ pip install minicalculator
 Sample Usage is as follows
 
 ```
-from minicalculator.calculator import Calculator
+from mini_calculator.calculator import Calculator
 
 calc = Calculator()
 
