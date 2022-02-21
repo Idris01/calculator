@@ -10,7 +10,7 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="minicalculator",
-    version="0.1.0",
+    version="0.1.0.post1",
     description="A basic Calculator",
     long_description=README,
     long_description_content_type="text/markdown",
